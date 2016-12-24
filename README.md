@@ -1,2 +1,5 @@
 
-DULE OBRIŠI OVAj REPOSITORY
+Predlozi (Ime fajla - Kratak opis - Autor:
+
+1. 
+
