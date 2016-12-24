@@ -1,5 +1,5 @@
 
-Predlozi (Ime fajla - Kratak opis - Autor:
+Predlozi (Ime fajla - Kratak opis - Autor):
 
 1. 
 
