@@ -1,1 +1,2 @@
-# Predlozi-ReadMe.txt
+
+DULE OBRIŠI OVAj REPOSITORY
